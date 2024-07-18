@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+torch
+numpy
+nltk
+scikit-learn
+gunicorn
